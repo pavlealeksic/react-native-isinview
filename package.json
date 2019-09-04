@@ -1,0 +1,22 @@
+{
+  "name": "react-native-isinview",
+  "version": "0.0.2",
+  "description": "Detects if a ScrollView or ListView element is inside the users viewport and reports back changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavlealeksic/react-native-isinview.git"
+  },
+  "author": "Pavle Aleksic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavlealeksic/react-native-isinview/issues"
+  },
+  "homepage": "https://github.com/pavlealeksic/react-native-isinview/",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
